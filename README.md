@@ -6,8 +6,9 @@
  ```
  npm install
  ```
- 1. Login on https://apilayer.com and get acess key
- 2. replace api key with new access key on line no 6 in index.js file
+ 1. Login on https://apilayer.com and do subscribe
+ 2. and get API key
+ 3. replace api key with new access key on line no 6 in index.js file
 
  ```
  npm run start
