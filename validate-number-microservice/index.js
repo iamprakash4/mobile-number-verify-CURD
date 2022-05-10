@@ -3,7 +3,7 @@ var httpReq = require('request');
 const bodyParser = require('body-parser')
 var app = express();
 var portNum = 50001;
-var apiKey = "4M7hDtYUEnhiryUdc3ejpQF4DhnoFQ5M"
+var apiKey = "HA4VAwBiFLR7FzziDie74dAozMpVdIcd"
      
 app.use(bodyParser.json())
 app.listen(portNum, displayStarted);
